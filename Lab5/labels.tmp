@@ -1,0 +1,84 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega328P</DEVICE>
+ <WORKING_DIR>C:\Users\Kimichi Habi\Desktop\EE346\Lab5</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m328pdef.inc</FILE>
+  <FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\spi_shield.inc</FILE>
+  <FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\testbench.inc</FILE>
+  <FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\pseudo_instr.inc</FILE>
+  <FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\maze.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.map</FILE>
+  <FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.lst</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <room><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>24</LINE></room>
+  <dir><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>25</LINE></dir>
+  <next_state><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>26</LINE></next_state>
+  <walk><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>27</LINE></walk>
+  <row><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>28</LINE></row>
+  <col><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>29</LINE></col>
+  <bees><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>30</LINE></bees>
+  <RST_VECT><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>34</LINE></RST_VECT>
+  <reset><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>49</LINE></reset>
+  <INT0_ISR><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\pseudo_instr.inc</FILE><LINE>102</LINE></INT0_ISR>
+  <theBees><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>40</LINE></theBees>
+  <InitShield><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\spi_shield.inc</FILE><LINE>21</LINE></InitShield>
+  <ReadSwitches><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\spi_shield.inc</FILE><LINE>55</LINE></ReadSwitches>
+  <WriteDisplay><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\spi_shield.inc</FILE><LINE>73</LINE></WriteDisplay>
+  <spiTxWait><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\spi_shield.inc</FILE><LINE>89</LINE></spiTxWait>
+  <spiPolling><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\spi_shield.inc</FILE><LINE>92</LINE></spiPolling>
+  <DrawRoom><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\testbench.inc</FILE><LINE>21</LINE></DrawRoom>
+  <DrawDirection><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\testbench.inc</FILE><LINE>46</LINE></DrawDirection>
+  <found><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\testbench.inc</FILE><LINE>63</LINE></found>
+  <TurnLeft><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\pseudo_instr.inc</FILE><LINE>7</LINE></TurnLeft>
+  <TurnRight><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\pseudo_instr.inc</FILE><LINE>28</LINE></TurnRight>
+  <TurnAround><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\pseudo_instr.inc</FILE><LINE>48</LINE></TurnAround>
+  <HitWall><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\pseudo_instr.inc</FILE><LINE>54</LINE></HitWall>
+  <RightPaw><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\pseudo_instr.inc</FILE><LINE>64</LINE></RightPaw>
+  <Delay><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\pseudo_instr.inc</FILE><LINE>68</LINE></Delay>
+  <wait><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\pseudo_instr.inc</FILE><LINE>74</LINE></wait>
+  <Pulse><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\pseudo_instr.inc</FILE><LINE>93</LINE></Pulse>
+  <EndLoop><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\pseudo_instr.inc</FILE><LINE>85</LINE></EndLoop>
+  <theMaze><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\maze.inc</FILE><LINE>1</LINE></theMaze>
+  <loop><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>94</LINE></loop>
+  <state_S0><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>105</LINE></state_S0>
+  <state_S1><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>117</LINE></state_S1>
+  <TakeAStep><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>202</LINE></TakeAStep>
+  <end_switch><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>185</LINE></end_switch>
+  <state_S2><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>136</LINE></state_S2>
+  <end_S1><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>133</LINE></end_S1>
+  <state_s3><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>171</LINE></state_s3>
+  <EnterRoom><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>251</LINE></EnterRoom>
+  <DrawBees><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>288</LINE></DrawBees>
+  <IsHallway><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>317</LINE></IsHallway>
+  <NextState><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>166</LINE></NextState>
+  <OtherState><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>181</LINE></OtherState>
+  <TestIsHallway><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>337</LINE></TestIsHallway>
+  <nomove><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>240</LINE></nomove>
+  <checkeast><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>226</LINE></checkeast>
+  <location><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>246</LINE></location>
+  <checkwest><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>231</LINE></checkwest>
+  <checknorth><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>236</LINE></checknorth>
+  <EndBees><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>308</LINE></EndBees>
+  <answer_is_no><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>327</LINE></answer_is_no>
+  <Horizontal><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>321</LINE></Horizontal>
+  <answer_is_yes><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>330</LINE></answer_is_yes>
+  <Vertical><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>324</LINE></Vertical>
+  <endOfHallway><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>332</LINE></endOfHallway>
+  <inHallway><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>345</LINE></inHallway>
+  <doneHallway><FILE>C:\Users\Kimichi Habi\Desktop\EE346\Lab5\Lab5.asm</FILE><LINE>348</LINE></doneHallway>
+ </LABELS>
+</ASSEMBLER_INFO>
