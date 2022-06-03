@@ -1,5 +1,6 @@
 <!-- Readme Start here -->
-<!-- Set logo -->
+
+<!-- Load logo from readme/logo.jpg -->
 <div align="center">
   <img src="readme/logo.jpg" width="200" alt="animated" />
 </div>
@@ -10,58 +11,75 @@
 Automatic Maze Navigation System
 </h1>
 
-<!-- Shield IO -->
+
+<!-- Shield IO - very nice icons -->
 <div align="center">
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors_shield]][contributors_url]
+[![Forks][forks_shield]][forks_url]
+[![Stargazers][stars_shield]][stars_url]
+[![Issues][issues_shield]][issues_url]
+[![MIT License][license_shield]][license_url]
+[![LinkedIn][linkedin_shield]][linkedin_url]
 
 </div>
 
+
 <!-- Description -->
-If you're looking for random paragraphs, you've come to the right place. When a random word or a random sentence isn't quite enough, the next logical step is to find a random paragraph. We created the Random Paragraph Generator with you in mind. The process is quite simple. Choose the number of random paragraphs you'd like to see and click the button. Your chosen number of paragraphs will instantly appear.
+...
 
-<!-- Tools and Framework -->
+
+<!-- Include externals file that you need to run the program -->
+## Requirements
+- ...
+
+
+<!-- Include your major tools and frameworks -->
 ## Built With
-- 
+- ...
 
-<!-- Authors -->
+
+<!-- Authors information -->
 ## Author
-- [Socheath Sok](https://github.com/socheathsok)
+- [Socheath Sok][github]
 
 
 <!-- License -->
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md][license_url] file for details
 
 
 <!-- Shoutout to other projects, plugin, or minor tools -->
 ## Acknowledgments
 Special thank to
-- [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+- [Best-README-Template][Best-README-Template]
 
 
 <!-- Course -->
 ## Course
-- [EE 346 - Microprocessor Principles and Applications](http://catalog.csulb.edu/preview_course_nopop.php?catoid=5&coid=40849)
+- [EE 346 - Microprocessor Principles and Applications][course]
 
 
-<!-- Links use by shield IO -->
-[contributors-shield]: https://img.shields.io/github/contributors/SocheathSok/Automatic-Maze-Navigation-System.svg?style=for-the-badge
-[contributors-url]: https://github.com/SocheathSok/Automatic-Maze-Navigation-System/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SocheathSok/Automatic-Maze-Navigation-System.svg?style=for-the-badge
-[forks-url]: https://github.com/SocheathSok/Automatic-Maze-Navigation-System/network/members
-[stars-shield]: https://img.shields.io/github/stars/SocheathSok/Automatic-Maze-Navigation-System.svg?style=for-the-badge
-[stars-url]: https://github.com/SocheathSok/Automatic-Maze-Navigation-System/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SocheathSok/Automatic-Maze-Navigation-System.svg?style=for-the-badge
-[issues-url]: https://github.com/SocheathSok/Automatic-Maze-Navigation-System/issues
-[license-shield]: https://img.shields.io/github/license/SocheathSok/Automatic-Maze-Navigation-System.svg?style=for-the-badge
-[license-url]: https://github.com/SocheathSok/Automatic-Maze-Navigation-System/blob/master/LICENSE.md
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/socheath-sok-010822240/
+<!-- References -->
+<!-- Shield Icons-->
+[contributors_shield]: https://img.shields.io/github/contributors/SocheathSok/Automatic-Maze-Navigation-System.svg?style=for-the-badge
+[forks_shield]: https://img.shields.io/github/forks/SocheathSok/Automatic-Maze-Navigation-System.svg?style=for-the-badge
+[stars_shield]: https://img.shields.io/github/stars/SocheathSok/Automatic-Maze-Navigation-System.svg?style=for-the-badge
+[issues_shield]: https://img.shields.io/github/issues/SocheathSok/Automatic-Maze-Navigation-System.svg?style=for-the-badge
+[license_shield]: https://img.shields.io/github/license/SocheathSok/Automatic-Maze-Navigation-System.svg?style=for-the-badge
+[linkedin_shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+<!-- Shield URLs -->
+[contributors_url]: https://github.com/SocheathSok/Automatic-Maze-Navigation-System/graphs/contributors
+[forks_url]: https://github.com/SocheathSok/Automatic-Maze-Navigation-System/network/members
+[stars_url]: https://github.com/SocheathSok/Automatic-Maze-Navigation-System/stargazers
+[issues_url]: https://github.com/SocheathSok/Automatic-Maze-Navigation-System/issues
+[license_url]: https://github.com/SocheathSok/Automatic-Maze-Navigation-System/blob/master/LICENSE.md
+[linkedin_url]: https://www.linkedin.com/in/socheath-sok-010822240/
+
+<!-- Other URLs -->
+[github]: https://github.com/socheathsok
+[course]: http://catalog.csulb.edu/preview_course_nopop.php?catoid=5&coid=40849
+[Best-README-Template]: https://github.com/othneildrew/Best-README-Template
 
 
