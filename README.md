@@ -46,7 +46,7 @@ Automatic Maze Navigation System
 
 <!-- License -->
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md][license_url] file for details
+This project is licensed under the MIT License - see the [LICENSE][license_url] file for details
 
 
 <!-- Shoutout to other projects, plugin, or minor tools -->
@@ -74,7 +74,7 @@ Special thank to
 [forks_url]: https://github.com/SocheathSok/Automatic-Maze-Navigation-System/network/members
 [stars_url]: https://github.com/SocheathSok/Automatic-Maze-Navigation-System/stargazers
 [issues_url]: https://github.com/SocheathSok/Automatic-Maze-Navigation-System/issues
-[license_url]: https://github.com/SocheathSok/Automatic-Maze-Navigation-System/blob/master/LICENSE.md
+[license_url]: https://github.com/SocheathSok/Automatic-Maze-Navigation-System/blob/master/LICENSE
 [linkedin_url]: https://www.linkedin.com/in/socheath-sok-010822240/
 
 <!-- Other URLs -->
