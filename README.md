@@ -26,18 +26,18 @@ Automatic Maze Navigation System
 
 
 <!-- Description -->
-...
+In this project, the path through the maze was designed such that the bear can travel pass the targeted square, and collect no more than 15 bees before exiting the maze. The targeted square was picked using the last four digits of the student's ID (0701). The final design allows the bear to identify the type of room it is in and decide which direction to take automatically, and thus make it possible to find the exit while passing a total of 15 bees. 
 
 
 <!-- Include externals file that you need to run the program -->
-## Requirements
-- ...
+<!-- ## Requirements -->
+
 
 
 <!-- Include your major tools and frameworks -->
 ## Built With
-- ...
-
+- Software: AVR Studio 4
+- Hardware: Arduino Uno with an Atmel ATmega328P microcontroller and CSULB Shield
 
 <!-- Authors information -->
 ## Author
@@ -50,7 +50,7 @@ This project is licensed under the MIT License - see the [LICENSE][license_url] 
 
 
 <!-- Shoutout to other projects, plugin, or minor tools -->
-## Acknowledgments
+<!-- ## Acknowledgments
 Special thank to
 - [Best-README-Template][Best-README-Template]
 
